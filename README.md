@@ -1,2 +1,6 @@
-# minimalist-calendar
-Minimalist Calendar
+# Minimalist Calendar
+
+```bash
+./gradlew run
+```
+
